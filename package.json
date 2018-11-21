@@ -1,0 +1,26 @@
+{
+  "name": "thesaurus-example-cantfirmed",
+  "version": "1.0.0",
+  "description": "Your job is to implement a command-line [Thesaurus](https://en.wikipedia.org/wiki/Thesaurus) tool in Node.js using TypeScript. Use the [openthesaurus.de](https://www.openthesaurus.de/) word database as the data source for your tool. You can download the database in text format [here](https://www.openthesaurus.de/export/OpenThesaurus-Textversion.zip).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-Cantfirmed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-Cantfirmed/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-Cantfirmed#readme",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "line-by-line": "^0.1.6"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
